@@ -1,2 +1,2 @@
-Git is a distributed version control system.
-Git is a free software.
+英文不好，所以先用中文写
+这是我用来当作练习的git，我想写点C语言数据结构的东西
