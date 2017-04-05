@@ -1,5 +1,4 @@
 Main:InsertSort.o
 	gcc InsertSort.o -o Main
-InsertSort.o:InsertSort.c lib/headinsert.h
-	gcc -c InsertSort.c 
-
+InsertSort.o:InsertSort.c 
+	gcc -c InsertSort.c

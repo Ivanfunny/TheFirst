@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include"headinsert.h"
+#include"lib/headinsert.h"
 
 int LT(KeyType a,KeyType b){
     if(a<b) return 1;
